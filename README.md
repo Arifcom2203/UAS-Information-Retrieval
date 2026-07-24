@@ -19,4 +19,4 @@ Project ini merupakan tugas UAS Information Retrieval yang mengimplementasikan W
 
 ## Link Streamlit
 
-https://xxxxxxxx.streamlit.app
+[https://xxxxxxxx.streamlit.app](https://uas-information-retrieval-dmle22ykudar9gfwjqjwvu.streamlit.app/)
