@@ -15,8 +15,8 @@ Project ini merupakan tugas UAS Information Retrieval yang mengimplementasikan W
 
 ## Repository GitHub
 
-(Link repository akan muncul otomatis setelah repository dibuat.)
+(https://github.com/Arifcom2203/UAS-Information-Retrieval)
 
 ## Link Streamlit
 
-[https://xxxxxxxx.streamlit.app](https://uas-information-retrieval-dmle22ykudar9gfwjqjwvu.streamlit.app/)
+(https://uas-information-retrieval-dmle22ykudar9gfwjqjwvu.streamlit.app/)
