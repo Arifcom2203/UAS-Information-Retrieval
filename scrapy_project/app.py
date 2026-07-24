@@ -6,7 +6,7 @@ st.set_page_config(page_title="Book Crawler Dashboard", layout="wide")
 
 st.title("📚 Book Crawler Dashboard")
 
-df = pd.read_json("data/books.json")
+df = pd.read_json("books.json")
 
 st.success(f"Berhasil memuat {len(df)} data buku")
 
